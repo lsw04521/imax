@@ -39,11 +39,11 @@
 .a_right img {width: 100%; height: 300px;}
 
 #b_i_box {width: 100%; height: 600px; background-image: url(../img/background.jpg); background-position: center;
-    background-attachment: fixed; margin-top: 100px; float: left; text-align: center; color: #fff; padding-top: 75px;}
+    background-attachment: fixed; background-size: cover; margin-top: 100px; float: left; text-align: center; color: #fff; padding-top: 75px;}
 #b_i_box h1 {font-weight: lighter; font-size: 3rem;}
 #b_i_box h2 {font-weight: lighter;}
 
-.b_box {width: 1140px; height: 240px; margin: 0 auto; margin-top: 100px;}
+.b_box {width: 1140px; height: 240px; margin: 0 auto; margin-top: 75px;}
 .b_box li {width: 360px; height: 220px; margin: 10px; float: left; text-align: center;}
 .b_box img {border-radius: 50%;}
 
