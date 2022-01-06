@@ -15,13 +15,13 @@
 #i_box {width: 1140px; height: 220px; margin: 0 auto; position: absolute; top:-115px; left: 0; right: 0; box-shadow: 0.2px 0.2px 20px 0.2px rgb(0, 0, 0);;}
 
 .i_t_box {width: 380px; height: 220px; margin: 0 auto; float: left; text-align: center; line-height: 1.5; background-color: #010912; transition: .3s ease-in-out; padding-top: 15px; color: #fff;}
-.i_t_box img {border-radius: 15px;}
+.i_t_box img {filter: invert(1);}
 .i_t_box:nth-of-type(2) {border-left: 1px solid #000;}
 .i_t_box:nth-of-type(3) {border-left: 1px solid #000;}
 .i_t_box:hover {background-color: #2970cd;}
 
 
-#a_box {width: 1140px; height: 300px; margin: 0 auto; display: flex; margin-top: 250px;}
+#a_box {width: 1140px; height: 300px; margin: 0 auto; display: flex; margin-top: 200px;}
 
 .a_left {width: 50%; height: 300px; float: left; padding-top: 55px; transition: .3s ease-in-out;}
 .a_left:hover {color: #2970cd;}
@@ -46,3 +46,9 @@
 .b_box {width: 1140px; height: 240px; margin: 0 auto; margin-top: 100px;}
 .b_box li {width: 360px; height: 220px; margin: 10px; float: left; text-align: center;}
 .b_box img {border-radius: 50%;}
+
+#here {width: 100%; height: 400px; margin: 0 auto; float: left;}
+
+#carrer {width: 100%; height: 400px; padding-top: 100px; background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),url(../img/here.jfif); float: left; background-position: top; text-align: center;}
+.cbtn {width: 280px; height: 50px; margin: 0 auto; margin-top: 40px; padding-top: 12.5px; text-align: center; color: #fff; background-color: #2970cd; cursor: pointer; transition: .3s ease-in-out;}
+.cbtn:hover {background-color: #d5d5d5; color: #000;}
