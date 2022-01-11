@@ -46,8 +46,8 @@ footer {width: 100%; height: 575px; margin: 0 auto; background-color: #010912; f
 
 #f_case {width: 95%; height: 300px; margin: 0 auto; text-align: left; padding-top: 75px; color: #fff;}
 
-.f_box {width: 200px; height: auto; float: left;}
-.f_2box {width: 200px; height: auto; float: left;}
+.f_box {width: 200px; height: auto; float: left; margin-left: 20px;}
+.f_2box {width: 200px; height: auto; float: left; margin-left: 50px;}
 .floor {width: 100%; height: auto; float: left; margin-top: 50px;}
 .im {margin-bottom: 7.5px; float: left; color: #fff;}
 .im:hover {color: #2970cd;}
