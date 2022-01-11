@@ -1,3 +1,5 @@
+@media (min-width:1140px){
+
 #wrap {width: 100%; height: auto; margin: 0 auto; background-color: #d5d5d5; float: left; position: relative;}
 
 #sound {width: 100%; height: auto; margin: 0 auto; float: left; position: relative; background-color: #d5d5d5;}
@@ -78,3 +80,5 @@
 .p_i_box li {width: 228px; height: auto; float: left;}
 .p_i {width: 100%; height: auto; float: left;}
 .p_i_box img {cursor: pointer; margin: 40px;}
+
+}
