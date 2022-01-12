@@ -56,8 +56,8 @@
 .right {right:10px; top: 300px; position: absolute; font-size: 30px; cursor: pointer;}
 .right:hover {color: #2970cd;}
 
-#carrer {width: 100%; height: 500px; padding-top: 145px; background-image: linear-gradient(rgba(0, 0, 0, 0.5),
-    rgba(0, 0, 0, 0.5)),url(../img/here.jfif); background-position: top; background-size: cover; text-align: center;}
+#carrer {width: 100%; height: 500px; padding-top: 135px; background-image: linear-gradient(rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.5)),url(../img/here.jfif); background-position: center; background-size: cover; text-align: center;}
 .cbtn {width: 280px; height: 50px; margin: 0 auto; margin-top: 40px; padding-top: 12.5px; text-align: center; color: #fff; background-color: #2970cd; cursor: pointer; transition: .3s ease-in-out;}
 .cbtn:hover {background-color: #d5d5d5; color: #000;}
 
@@ -74,11 +74,13 @@
 .title {font-family: "Pretendard-Regular"; font-weight: bold; font-size: 18px; cursor: pointer;}
 .title:hover {color: #2970cd;}
 
-#p_box {width: 100%; height: 1000px; margin: 0 auto; float: left; background-color: #000; color: #fff; text-align: center; padding-top: 75px;}
+#p_box {width: 100%; height: 525px; margin: 0 auto; float: left; background-color: #000; color: #fff; text-align: center; padding-top: 75px;}
 
 .p_i_box {width: 95%; height: 500px; margin: 0 auto; padding-top: 25px;}
 .p_i_box li {width: 50%; height: auto; float: left;}
 .p_i {width: 100%; height: auto; float: left;}
 .p_i_box img {cursor: pointer; margin: 40px;}
+
+.p_l {display: none;}
 
 }

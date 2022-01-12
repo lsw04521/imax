@@ -1,4 +1,10 @@
 $(function(){
+    $("#menu").click(function () {
+      $(".b").slideToggle()
+    });
+  });
+
+$(function(){
   function left() {
       $('#here_box li:last').prependTo('#here_box');
       $('#here_box').css('margin-left', -1140);
