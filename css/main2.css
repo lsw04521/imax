@@ -11,8 +11,8 @@
 
 #i_box {width: 95%; height: 250px; margin: 0 auto; position: absolute; top:-115px; left: 0; right: 0; box-shadow: 0.2px 0.2px 20px 0.2px rgb(0, 0, 0);}
 
-.i_t_box {width: 33.333%; height: 250px; margin: 0 auto; float: left; text-align: center; line-height: 1.5; background-color: #010912; transition: .3s ease-in-out; padding: 20px; color: #fff;}
-.i_t_box img {filter: invert(1);}
+.i_t_box {width: 33.333%; height: 250px; margin: 0 auto; float: left; text-align: center; line-height: 1.5; background-color: #010912; transition: .3s ease-in-out; padding: 40px; color: #fff;}
+.i_t_box img {filter: invert(1); width: 100px;}
 .i_t_box:nth-of-type(2) {border-left: 1px solid #000;}
 .i_t_box:nth-of-type(3) {border-left: 1px solid #000;}
 .i_t_box:hover {background-color: #2970cd;}
@@ -47,7 +47,7 @@
 
 .here {width: 690px; height: 300px; margin: 0 auto; overflow: hidden;}
 
-#here_box {width: 2214px; height: 200px;}
+#here_box {width: 2070px; height: 200px;}
 #here_box li {width: 690px; height: 200px; float: left;}
 
 .left {left:50px; top: 175px; position: absolute; font-size: 30px; cursor: pointer;}
