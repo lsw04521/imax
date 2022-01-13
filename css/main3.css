@@ -34,7 +34,7 @@
 .b_right:hover {color: #2970cd;}
 .b_right:hover .abtn {color: #2970cd;}
 
-#b_i_box {width: 100%; height: 1150px; background-image: url(../img/background.jpg); background-position: center;
+#b_i_box {width: 100%; height: 1075px; background-image: url(../img/background.jpg); background-position: center;
     background-attachment: fixed; margin-top: 25px; text-align: center; color: #fff; padding-top: 75px;}
 #b_i_box h1 {font-weight: lighter; font-size: 2.25rem;}
 #b_i_box h2 {font-weight: lighter;}
