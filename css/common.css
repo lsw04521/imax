@@ -53,10 +53,10 @@ footer {width: 100%; height: auto; margin: 0 auto; background-color: #010912; fl
 #icon:hover {color: #2970cd;}
 
 
-#f_case {width: 95%; height: 300px; margin: 0 auto; text-align: left; padding-top: 75px; color: #fff;}
+#f_case {width: 90%; height: 450px; margin: 0 auto; text-align: left; padding-top: 75px; color: #fff; display: flex;}
 
-.f_box {width: 100px; height: auto; float: left; margin-right: 150px;}
-.f_2box {width: 200px; height: auto; float: right;}
+.f_box {width: 125px; height: auto; float: left; margin-right: 100px;}
+.f_2box {width: 150px; height: auto; float: right;}
 .floor {width: 100%; height: auto; float: left; margin-top: 25px; padding-bottom: 20px;}
 .im {margin-bottom: 15px; float: left; color: #fff;}
 .im:hover {color: #2970cd;}
