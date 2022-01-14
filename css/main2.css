@@ -2,6 +2,8 @@
 
 #wrap {width: 100%; height: auto; margin: 0 auto; background-color: #d5d5d5; float: left; position: relative;}
 
+.video {width: 100%; height: auto;}
+
 #sound {width: 100%; height: auto; margin: 0 auto; float: left; position: relative; background-color: #d5d5d5;}
 #sound h1 {color: #fff; font-weight: 300; font-size: 2.75rem; text-align: center; position: absolute; top: 175px; left: 0; right: 0;}
 .sbtn {width: 150px; height: 50px; margin: 0 auto; text-align: center; color: #fff; background-color: #2970cd; position: absolute; cursor: pointer; padding-top: 14px; top: 400px; left: -160px; right: 0; transition: .3s ease-in-out;}
