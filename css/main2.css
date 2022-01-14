@@ -47,7 +47,7 @@
 
 #here {width: 100%; height: 425px; margin: 0 auto; text-align: center; padding-top: 65px;}
 
-.here {width: 690px; height: 400px; margin: 0 auto; overflow: hidden; position: relative;}
+.here {width: 690px; height: 365px; margin: 0 auto; overflow: hidden; position: relative;}
 
 #here_box {width: 2070px; height: 200px;}
 #here_box li {width: 690px; height: 200px; float: left;}
