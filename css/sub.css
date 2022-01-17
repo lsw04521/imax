@@ -16,7 +16,7 @@
 .m_t_box {width: 53%; height: 360px; float: left; padding: 15px; padding-left: 50px;}
 .m_t_box h4 {color: #2970cd;}
 
-#m_box2 {width: 1140px; height: 370px; margin: 0 auto; margin-bottom: 50px;  background-color: #efefef;}
+#m_box2 {width: 1140px; height: 370px; margin: 0 auto; margin-bottom: 50px; background-color: #efefef;}
 
 .m_i_box2 {width: 47%; height: 370px; overflow: hidden; float: left;}
 .m_i_box2 img {width: 100%; height: 370px; filter: brightness(60%); transition: 1.5s;}
@@ -35,7 +35,8 @@
 
 .ti_u_box {width: 1140px; height: 150px; margin: 0 auto; background-color: #010912; margin-bottom: 10px; color: #efefef; transition: .3s ease-in-out;}
 .ti_u_box:hover {background-color: #000; transform: scale(1.05);}
-.ti_u_box img {width: 100%; height: 150px;}
+.ti_u_box:hover img {filter: brightness(100%);}
+.ti_u_box img {width: 100%; height: 150px; filter: brightness(60%); transition: .3s ease-in-out;}
 
 .ti_u_box li {float: left; cursor: pointer;}
 .ti_u_box li:nth-of-type(1) {width: 5%; height: 150px; text-align: center; padding-top: 50px;}
