@@ -7,7 +7,7 @@
 
 #t_box {width: 1140px; height: 200px; margin: 0 auto; text-align: center; padding-top: 50px;}
 
-#m_box {width: 1140px; height: 360px; margin: 0 auto; margin-bottom: 50px; background-color: #efefef;}
+#m_box {width: 1140px; height: 360px; margin: 0 auto; margin-bottom: 25px; background-color: #efefef;}
 
 .m_i_box {width: 47%; height: 360px; overflow: hidden; float: left;}
 .m_i_box img {width: 100%; height: 360px; filter: brightness(60%); transition: 1.5s;}
@@ -16,7 +16,7 @@
 .m_t_box {width: 53%; height: 360px; float: left; padding: 15px; padding-left: 50px;}
 .m_t_box h4 {color: #2970cd;}
 
-#m_box2 {width: 1140px; height: 370px; margin: 0 auto; margin-bottom: 50px; background-color: #efefef;}
+#m_box2 {width: 1140px; height: 370px; margin: 0 auto; margin-bottom: 25px; background-color: #efefef;}
 
 .m_i_box2 {width: 47%; height: 370px; overflow: hidden; float: left;}
 .m_i_box2 img {width: 100%; height: 370px; filter: brightness(60%); transition: 1.5s;}
@@ -34,7 +34,7 @@
 #ti_box {width: 1140px; height: 800px; margin: 0 auto;}
 
 .ti_u_box {width: 1140px; height: 150px; margin: 0 auto; background-color: #010912; margin-bottom: 10px; color: #efefef; transition: .3s ease-in-out;}
-.ti_u_box:hover {background-color: #000; transform: scale(1.05);}
+.ti_u_box:hover {background-color: #000;}
 .ti_u_box:hover img {filter: brightness(100%);}
 .ti_u_box img {width: 100%; height: 150px; filter: brightness(60%); transition: .3s ease-in-out;}
 
@@ -49,3 +49,8 @@
 
 .tbtn {width: 150px; height: 50px; margin: 0 auto; text-align: center; color: #fff; background-color: #2970cd; cursor: pointer; padding-top: 12.5px; transition: .3s ease-in-out;}
 .tbtn:hover {background-color: #d5d5d5; color: #000;}
+
+#v_box {width: 100%; height: 500px; margin: 0 auto;}
+.v_u_box {width: 1140px; height: 500px; margin: 0 auto;}
+.v_u_box li {width: 31%; height: 400px; margin: 13px; background-color: #efefef; float: left; padding-top: 125px;}
+.v_round {width: 150px; height: 150px; margin: 0 auto; background-color: #808487; border-radius: 50%; padding-left: 50px; padding-top: 35px; cursor: pointer;}
