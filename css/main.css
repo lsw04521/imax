@@ -29,10 +29,10 @@
 .a_right img {width: 100%; height: 300px;}
 .abtn {font-size: 1.5rem; font-weight: bold; cursor: pointer; transition: .3s ease-in-out;}
 
-#b_box {width: 1140px; height: 300px; margin: 0 auto; display: flex; margin-top: 100px;}
-.b_left {width: 50%; height: 300px; float: right; padding-right: 50px; padding-left: 50px;}
-.b_left img {width: 100%; height: 300px;}
-.b_right {width: 50%; height: 300px; float: left; padding: 40px; transition: .3s ease-in-out;}
+#b_box {width: 100%; height: 450px; margin: 0 auto; display: flex; margin-top: 100px; margin-bottom: 100px;}
+.b_left {width: 50%; height: 450px; float: right; padding-right: 50px;}
+.b_left img {width: 100%; height: 450px;}
+.b_right {width: 570px; height: 450px; float: left; padding: 40px; padding-top: 125px; transition: .3s ease-in-out;}
 .b_right:hover {color: #2970cd;}
 .b_right:hover .abtn {color: #2970cd;}
 
