@@ -53,4 +53,4 @@
 #v_box {width: 100%; height: 500px; margin: 0 auto;}
 .v_u_box {width: 1140px; height: 500px; margin: 0 auto;}
 .v_u_box li {width: 31%; height: 400px; margin: 13px; background-color: #efefef; float: left; padding-top: 125px;}
-.v_round {width: 150px; height: 150px; margin: 0 auto; background-color: #808487; border-radius: 50%; padding-left: 50px; padding-top: 35px; cursor: pointer;}
+.v_round {width: 150px; height: 150px; margin: 0 auto; background-color: #808487; border-radius: 50%; padding-left: 50px; padding-top: 40px; cursor: pointer;}
