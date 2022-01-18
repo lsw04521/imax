@@ -51,3 +51,12 @@ $(function(){
 
   
 });
+
+  $(function () {
+      $('.play').click(function () {
+          $('#box').css('display', 'block');
+      });
+      $('#cbtn').click(function () {
+          $('#box').css('display', 'none');
+      });
+  });
