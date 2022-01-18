@@ -54,11 +54,11 @@ hr {border: 1px dashed #fff; width: 3em; margin: .5em 0 1em;}
 .ti_u_box:hover img {filter: brightness(100%);}
 .ti_u_box img {width: 100%; height: 171px; filter: brightness(60%); transition: .3s ease-in-out;}
 
-.ti_u_box li {float: left; cursor: pointer;}
+.ti_u_box li {float: left; cursor: pointer; border-right: 1px solid #000;}
 .ti_u_box li:nth-of-type(1) {width: 5%; height:  171px; text-align: center; padding-top: 62.5px;}
 .ti_u_box li:nth-of-type(2) {width: 15%; height: 171px;}
-.ti_u_box li:nth-of-type(3) {width: 40%; height: 171px; padding-top: 2.75%; padding-left: 20px;}
-.ti_u_box li:nth-of-type(4) {width: 15%; height: 171px; padding-top: 75px; text-align: center; padding-left: 40px;}
+.ti_u_box li:nth-of-type(3) {width: 40%; height: 171px; padding: 30px;}
+.ti_u_box li:nth-of-type(4) {width: 15%; height: 171px; padding-top: 75px; text-align: center;}
 .ti_u_box li:nth-of-type(5) {width: 25%; height: 171px; padding-top: 60px;}
 
 .blue {color: #2970cd; font-size: 12px;}
