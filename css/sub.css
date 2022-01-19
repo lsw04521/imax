@@ -51,35 +51,39 @@ hr {border: 1px dashed #fff; width: 3em; margin: .5em 0 1em;}
 
 .ti_u_box {width: 1140px; height: 171px; margin: 0 auto; background-color: #010912; margin-bottom: 25px; color: #efefef; transition: .3s ease-in-out;}
 .ti_u_box:hover {background-color: #000; box-shadow: 0.2px 0.2px 10px 0.2px rgba(0, 0, 0, 0.5);}
-.ti_u_box:hover li:nth-of-type(3) {border-right: 1px solid #2970cd;}
-.ti_u_box:hover li:nth-of-type(4) {border-right: 1px solid #2970cd;}
 .ti_u_box:hover img {filter: brightness(100%);}
 .ti_u_box img {width: 100%; height: 171px; filter: brightness(60%); transition: .3s ease-in-out;}
 
-.ti_u_box li {float: left; cursor: pointer; border-right: 1px solid #000; transition: .3s ease-in-out;}
+.ti_u_box li {float: left; cursor: pointer; border-right: 2px solid #2970cd; transition: .3s ease-in-out;}
 .ti_u_box li:nth-of-type(1) {width: 5%; height:  171px; text-align: center; padding-top: 62.5px;}
 .ti_u_box li:nth-of-type(2) {width: 15%; height: 171px;}
 .ti_u_box li:nth-of-type(3) {width: 40%; height: 171px; padding: 30px;}
 .ti_u_box li:nth-of-type(4) {width: 15%; height: 171px; padding-top: 75px; text-align: center;}
-.ti_u_box li:nth-of-type(5) {width: 25%; height: 171px; padding-top: 60px;}
+.ti_u_box li:nth-of-type(5) {width: 25%; height: 171px; padding-top: 60px; border: 0px;}
 
 .blue {color: #2970cd; font-size: 12px;}
 
 .tbtn {width: 150px; height: 50px; margin: 0 auto; text-align: center; color: #fff; background-color: #2970cd; cursor: pointer; padding-top: 12.5px; transition: .3s ease-in-out;}
 .tbtn:hover {background-color: #d5d5d5; color: #000;}
 
-#v_box {width: 100%; height: 275px; margin: 0 auto;}
+#v_box {width: 100%; height: 250px; margin: 0 auto;}
 .v_u_box {width: 1140px; height: 250px; margin: 0 auto;}
 .v_u_box li:hover {box-shadow: 0.2px 0.2px 10px 0.2px rgba(0, 0, 0, 0.5);}
-.v_u_box li {width: 31%; height: 250px; margin: 13px; background-color: #efefef; float: left; padding-top: 62.5px; transition: .3s ease-in-out;}
+.v_u_box li {width: 31%; height: 250px; margin: 0px 12.5px; background-color: #000; float: left; padding-top: 62.5px; transition: .3s ease-in-out;}
 .v_u_box li:nth-of-type(1) {background-image: url(../img/tb_1.webp); background-size: 100% 85%; background-position: center; background-repeat: no-repeat;}
 .v_u_box li:nth-of-type(2) {background-image: url(../img/batman.webp); background-size: 100% 85%; background-position: center; background-repeat: no-repeat;}
 .v_u_box li:nth-of-type(3) {background-image: url(../img/tb3.webp); background-size: 100% 85%; background-position: center; background-repeat: no-repeat;}
 .v_round {width: 125px; height: 125px; margin: 0 auto; background-color: #808487; border-radius: 50%; padding-left: 30px; padding-top: 25px; cursor: pointer; border: 2px solid #2970cd; transition: .3s ease-in-out; opacity: 0.75;}
 .v_round:hover {transform: scale(1.1); opacity: 1;}
 
-#c_t_box {width: 1140px; height: 360px; margin: 0 auto; margin-top: 25px; display: flex; justify-content: space-between;}
-.c_t {width: 47.5%; height: 320px; cursor: pointer;}
-.c_t img {width: 100%; height: 320px;}
+#c_t_box {width: 1140px; height: 345px; margin: 0 auto; margin-top: 25px; display: flex; justify-content: space-between;}
+#c_t_box h1 {font-size: 2.4em;}
+.conte-1 {width: 48.75%; height: 320px; background-image: url(../img/disney.jpg); background-size: cover; color: #fff; padding: 1.5%;}
+.conte-2 {width: 48.75%; height: 320px; background-image: url(../img/sub_slider.png); background-size: cover; color: #fff; padding: 1.5%;}
 
+.conte-1 a {text-decoration: underline; color: #fff; transition: .4s ease-in-out; font-weight: bold;}
+.conte-1 a:hover {color: #2970cd;}
+
+.conte-2 a {color: #fff; transition: .4s ease-in-out; font-weight: bold;}
+.conte-2 a:hover {color: #2970cd;}
 }
