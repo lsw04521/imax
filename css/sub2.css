@@ -7,9 +7,9 @@
 
 #slider {width: 100%; height: 400px; margin: 0 auto; background: url(../img/sub_slider.png); background-size: cover;}
 
-#t_box {width: 95%; height: 200px; margin: 0 auto; text-align: center; padding: 50px; background-color: #efefef; margin-top: 25px; margin-bottom: 25px;}
+#t2_box {width: 95%; height: 200px; margin: 0 auto; text-align: center; padding: 50px; background-color: #efefef; margin-top: 25px; margin-bottom: 25px;}
 
-#m_box {width: 95%; height: 720px; margin: 0 auto; margin-bottom: 25px; display: flex;}
+#m2_box {width: 95%; height: 720px; margin: 0 auto; margin-bottom: 25px; display: flex;}
 
 .m_i_box {width: 40%; height: 720px; overflow: hidden; float: left; position: relative; display: flex;}
 .m_i_box img {width: 100%; height: 720px; filter: brightness(60%); transition: 1.5s;}
