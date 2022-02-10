@@ -2,7 +2,7 @@ $(function(){
     $("#menu").click(function () {
       $(".b").slideToggle()
     });
-  });
+});
 
 $(function(){
   function left() {

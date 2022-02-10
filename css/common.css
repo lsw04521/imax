@@ -1,8 +1,9 @@
 @media (max-width:767px){
 
-header {width: 100%; height: 50px; margin: 0 auto; background-color: #d5d5d5; float: left;}
+header {width: 100%; height: 50px; margin: 0 auto; background-color: #d5d5d5; float: left; position: fixed; z-index: 99999;}
 
-#logo {float: left; width: 106px; height: 19px; margin-top: 15px; margin-left: 45px; background: url(../img/logo.png); transition: .3s ease-in-out; cursor: pointer;}
+#logo {float: left; width: 106px; height: 19px; margin-top: 15px; margin-left: 45px;
+    background: url(../img/logo.png); transition: .3s ease-in-out; cursor: pointer;}
 #logo:hover {background: url(../img/logo_hover.png);}
 
 #menu {width: 30px; height: auto; float: right; cursor: pointer; font-size: 30px; margin: 4px;}
@@ -32,7 +33,7 @@ footer {width: 100%; height: 1250px; margin: 0 auto; background-color: #010912; 
 
 @media (min-width:768px) and (max-width:1139px){
 
-header {width: 100%; height: 50px; margin: 0 auto; background-color: #d5d5d5; float: left;}
+header {width: 100%; height: 50px; margin: 0 auto; background-color: #d5d5d5; float: left; position: fixed; z-index: 99999;}
 
 #menu {width: 30px; height: auto; float: right; cursor: pointer; font-size: 30px; margin: 4px;}
 
@@ -64,7 +65,7 @@ footer {width: 100%; height: auto; margin: 0 auto; background-color: #010912; fl
 }
 
 @media (min-width:1140px){
-header {width: 100%; height: auto; margin: 0 auto; background-color: #d5d5d5; float: left;}
+header {width: 100%; height: auto; margin: 0 auto; background-color: #d5d5d5; float: left; position: fixed; z-index: 99999;}
 
 #menu {display: none;}
 
