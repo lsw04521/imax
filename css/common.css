@@ -25,6 +25,7 @@ footer {width: 100%; height: 1250px; margin: 0 auto; background-color: #010912; 
 #f_case {width: 95%; height: 1100px; margin: 0 auto; text-align: left; color: #fff; display: flex; flex-direction: column;}
 .f_box {width: 200px; height: auto; float: left; margin-top: 30px;}
 .f_2box {width: 200px; height: auto; float: left;margin-top: 30px;}
+.f_2box img {float: left; padding-top: 4px; padding-right: 10px;}
 .floor {width: 95%; height: auto; float: left; margin-top: 50px;}
 .im {margin-bottom: 15px; float: left; color: #fff; width: 100%;}
 .im:hover {color: #002a97;}
@@ -58,6 +59,7 @@ footer {width: 100%; height: auto; margin: 0 auto; background-color: #010912; fl
 
 .f_box {width: 125px; height: auto; float: left; margin-right: 14%;}
 .f_2box {width: 150px; height: auto; float: right;}
+.f_2box img {float: left; padding-top: 4px; padding-right: 10px;}
 .floor {width: 100%; height: auto; float: left; margin-top: 25px; padding-bottom: 20px;}
 .im {margin-bottom: 15px; float: left; color: #fff;}
 .im:hover {color: #002a97;}
@@ -90,6 +92,7 @@ footer {width: 100%; height: 450px; margin: 0 auto; background-color: #010912; f
 #f_case {width: 1140px; height: 300px; margin: 0 auto; text-align: left; padding-top: 75px; color: #fff; display: flex;}
 .f_box {width: 200px; height: auto; float: left; margin-right: 150px;}
 .f_2box {width: 200px; height: auto; float: right;}
+.f_2box img {float: left; padding-top: 4px; padding-right: 10px;}
 .floor {width: 100%; height: auto; float: left; margin-top: 50px;}
 
 .im {width: 100%; margin-bottom: 15px; float: left; color: #fff;}

@@ -50,7 +50,7 @@
 .here {width: 420px; height: 510px; margin: 0 auto; overflow: hidden; position: relative;}
 
 #here_box {width: 1260px; height: 200px;}
-#here_box li {width: 420px; height: 200px; float: left;}
+#here_box li {width: 420px; float: left;}
 
 .left {left:135px; top: 425px; position: absolute; font-size: 30px; cursor: pointer;}
 .left:hover {color: #2970cd;}
