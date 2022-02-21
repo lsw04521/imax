@@ -79,8 +79,8 @@ hr {border: 1px dashed #fff; width: 3em; margin: .5em 0 1em;}
 
 #c_t_box {width: 90%; margin: 0 auto; display: flex; flex-direction: column;}
 #c_t_box h1 {font-size: 2.4em;}
-.conte-1 {width: 100%; background-image: url(../img/disney.jpg); background-size: cover; color: #fff; padding: 1.5%;}
-.conte-2 {width: 100%; background-image: url(../img/sub_slider.png); background-size: cover; color: #fff; padding: 1.5%; margin-top: 25px; margin-bottom: 25px;}
+.conte-1 {width: 100%; background-image: url(../img/disney.jpg); background-size: cover; color: #fff; padding: 10px;}
+.conte-2 {width: 100%; background-image: url(../img/sub_slider.png); background-size: cover; color: #fff; padding: 10px; margin-top: 25px; margin-bottom: 25px;}
 
 .conte-1 a {text-decoration: underline; color: #fff; transition: .4s ease-in-out; font-weight: bold;}
 .conte-1 a:hover {color: #2970cd;}
